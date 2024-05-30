@@ -15,6 +15,7 @@
         <module>Interview</module>
         <module>PostgreSQL</module>
         <module>Mongo</module>
+        <module>NorthWind</module>
     </modules>
 
     <properties>
